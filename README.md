@@ -1,4 +1,5 @@
 # Data Analytics and Visualization
+Job simulation of ACCENTURE from The Forage https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb
 ## Introduction
 At Accenture, participants work as data analysts to meet the needs of diverse clients and projects. In this job simulation, the client is Social Buzz, a platform where content takes center stage. Over the past five years, Social Buzz has grown rapidly, now reaching over 500 million active users each month. This unprecedented growth has outpaced expectations, prompting the need for advisory support to ensure a smooth scaling process. Managing this massive, unstructured data from the platform requires advanced, costly technology.
 
