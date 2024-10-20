@@ -7,4 +7,19 @@ Given the scale of their data, Social Buzz has decided to bring in external expe
 To start our engagement with Social Buzz, we are running a 3 month initial project in order  to prove to them that we are the best firm to work with. They are expecting the following:  
 - An audit of their big data practice
 - Recommendations for a successful IPO
--  An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity  
+-  An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
+
+## Task 1: Project Understanding
+- Meet your Accenture team, including the industry, IPO, and data experts
+- Read and analyze a client project brief to understand the client and business problem, identify the requirements that need to be delivered, and identify which tasks you need to focus on as a data analyst
+
+## Task 2:  Data Cleaning & Modeling
+- Identify which datasets will be required to answer the client’s business question
+- Clean the datasets and merge them to prepare the data for analysis
+- Determine the answer to the client’s business question
+
+## Task 3: Data Visualization & Storytelling
+- Choose the data visualizations that best support the story you want to tell to the client
+- Create a PowerPoint presentation that reports on the client’s content performance
+
+## Task 4: Present to the Client
